@@ -1,0 +1,43 @@
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log/OS files
+*.log
+.DS_Store
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Keystore files
+*.jks
+*.keystore
+
+# APK/AAB files
+*.apk
+*.aab
+
+# Generated files
+*/build/
+
+# Kotlin/Java compiled files
+*.class
+
+# NDK
+obj/
+
+# Google Services
+google-services.json
+
+# Firebase Crashlytics
+com_crashlytics_export_strings.xml
+
+# Profiling
+*.hprof
